@@ -1,9 +1,7 @@
-https://dpaste.org/uhpD 
-https://dpaste.org/uhpD
-About History New snippet
-Python Expires in: 6 days, 23 hours
-Delete Now
-Slim
+'''
+Import the package
+e.g: python pip -m africastalking
+'''
 import africastalking
 # TODO: Initialize Africa's Talking
 
